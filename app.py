@@ -1,24 +1,3 @@
-#CSS 
-css_content = """
-<style>
-[data-testid="stHeader"]{
-    background: rgb(31,31,31);
-}
-
-[data-testid="stSidebar"]{
-    background: rgb(75,74,83);
-}
-
-[data-testid="stAppViewContainer"]{
-    background: rgb(0,0,0);
-}
-
-
-</style>
-
-"""
-
-
 #IMPORTING LIBRARIES
 import streamlit as st
 import pandas as pd
