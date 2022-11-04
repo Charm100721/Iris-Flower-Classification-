@@ -20,7 +20,6 @@ css_content = """
 
 
 #IMPORTING LIBRARIES
-from turtle import onclick
 import streamlit as st
 import pandas as pd
 from sklearn import datasets
