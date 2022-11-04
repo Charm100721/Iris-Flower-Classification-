@@ -79,7 +79,6 @@ print(iris_data["petal width (cm)"].max(), iris_data["petal width (cm)"].min())
 
 
 #CREATING A TITLE
-st.markdown(css_content, unsafe_allow_html=True)
 st.title("""
 Iris Flower Prediction App
 This app predicts **iris flower** type!
